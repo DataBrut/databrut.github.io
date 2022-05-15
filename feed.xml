@@ -4,10 +4,10 @@
     <title>Ilija Lazarević</title>
     <description>M.Sc.IT - Machine Learning Engineer
 </description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 15 May 2022 09:14:19 -0500</pubDate>
-    <lastBuildDate>Sun, 15 May 2022 09:14:19 -0500</lastBuildDate>
+    <link>http://www.databrut.com/</link>
+    <atom:link href="http://www.databrut.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 15 May 2022 09:50:25 -0500</pubDate>
+    <lastBuildDate>Sun, 15 May 2022 09:50:25 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -23,8 +23,8 @@
 &lt;p&gt;Cheers!&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 May 2022 06:55:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/intro/2022/05/15/start.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/intro/2022/05/15/start.html</guid>
+        <link>http://www.databrut.com/intro/2022/05/15/start.html</link>
+        <guid isPermaLink="true">http://www.databrut.com/intro/2022/05/15/start.html</guid>
         
         <category>intro</category>
         
