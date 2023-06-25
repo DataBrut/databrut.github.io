@@ -1,0 +1,27 @@
+[
+  
+    {
+      "title"    : "Talk at ML Conference 2023, Serbia",
+      "category" : "talk",
+      "tags"     : "real estate, data science, conference",
+      "url"      : "/talk/2023/05/22/ml-conference-2023-talk/",
+      "date"     : "2023-05-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Workshop at ML Converence 2023. at Subotica, Serbia",
+      "category" : "lectures",
+      "tags"     : "workshop, data science, conference",
+      "url"      : "/lectures/2023/05/18/workshop-ml-conference-2023/",
+      "date"     : "2023-05-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Meetup at Digitalna Inicijativa Srbije",
+      "category" : "meetups",
+      "tags"     : "real estate, data science",
+      "url"      : "/meetups/2023/05/17/meetup-at-dsi/",
+      "date"     : "2023-05-17 00:00:00 +0200"
+    } 
+  
+]
