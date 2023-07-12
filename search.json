@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Technology and Social Disruption",
+      "category" : "lectures",
+      "tags"     : "workshop, ai, conference",
+      "url"      : "/lectures/2023/07/04/dos-impact-on-serbia-and-the-region/",
+      "date"     : "2023-07-04 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Talk at ML Conference 2023, Serbia",
       "category" : "talk",
       "tags"     : "real estate, data science, conference",
